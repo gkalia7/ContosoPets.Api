@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/gkalia/.dotnet/store/|arch|/|tfm|",
+      "/Users/gkalia/.nuget/packages"
+    ]
+  }
+}
