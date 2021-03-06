@@ -1,4 +1,3 @@
-using ContosoPets.Api;
 using ContosoPets.Api.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
